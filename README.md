@@ -3,3 +3,6 @@
 ## Tecnologias Usadas
   - Reactjs
   - Cypress
+### Teste unitarios 
+  - Utilizando o Cypress
+<img src="./editor"/>
