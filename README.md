@@ -5,4 +5,4 @@
   - Cypress
 ### Teste unitarios 
   - Utilizando o Cypress
-<img src="./editor"/>
+<img src="./text-edit.PNG"/>
